@@ -1,0 +1,4 @@
+com\example\Application.class
+com\example\rest\BookRestController.class
+com\example\rest\WelcomeRestController.class
+com\example\service\WelcomeService.class
