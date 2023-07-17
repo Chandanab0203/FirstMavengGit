@@ -7,7 +7,7 @@ public class WelcomeService {
 
 	public String getWelcomeMsg() {
 		
-		return "Welcome to Ashok IT";
+		return "Welcome to Ashok IT.com";
 	}
 
 }
